@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Laravel Captcha
 
-<a href="https://github.com/Parasnshah/laravel_captcha/public/index.php">asf</a>
-
+<img src="https://github.com/Parasnshah/laravel_captcha/blob/master/public/Captcha1.PNG">
+<img src="https://github.com/Parasnshah/laravel_captcha/blob/master/public/Captcha2.PNG">
