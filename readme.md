@@ -9,5 +9,8 @@
 
 ## Laravel Captcha
 
+## Installation
+composer require mews/captcha
+
 <img src="https://github.com/Parasnshah/laravel_captcha/blob/master/public/Captcha1.PNG">
 <img src="https://github.com/Parasnshah/laravel_captcha/blob/master/public/Captcha2.PNG">
